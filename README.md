@@ -10,10 +10,27 @@ mpa
 7.Use the imperetive mood in the subject line
 
 Imperetive mood means 'spoken or written as if giving a command or  instruction'.
-A few exmples 
+
+Each of the seven rules are written in the imperative.
 * Clean your room
 * Close the door 
-Each of the seven rules are written in the imperative.
+
+
+A properly formed Git commit subject line should always be
+able to complete the following sentence:
+
+* If applied,this commit will - your subject line here-
+
+For exmple:
+* If applied this commit will "Instruct how to write good commit messages"
+* If applied this commit will "Build the index.html page"
+* If applied this commit will "Write the user model "
+* If apploed this commit wll "Write the model for the user"
+* If applied this commit will "Write the view for the user"
+* If applied this commit will "Calculate the sum total for the user model and view"
+
+
+
 
 ie :
 Summarize changes in around 50 chars or less
